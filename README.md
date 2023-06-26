@@ -1,1 +1,1 @@
-# OpenAIApp
+# OpenAi Demo Project
